@@ -1,2 +1,2 @@
-# Customer-Churn-Analysis
-Power-Co Customer Churn Prediction 
+PowerCo, a major gas and electricity utility company serving small and medium-sized enterprises, has observed increasing customer churn due to heightened competition in the energy market. With more options available, customers are frequently switching providers in search of better deals, such as lower prices, cleaner energy sources, and better customer service. PowerCo is concerned about this trend and has engaged a consulting firm to diagnose the underlying causes and develop strategies to mitigate churn.
+
